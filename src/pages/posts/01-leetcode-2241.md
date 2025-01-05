@@ -1,12 +1,8 @@
----
+<img src="https://gw.alipayobjects.com/zos/k/h5/hzL4LG.jpg" width="800" />
 
-title: "LeetCode 2241" 
+<small>封面图摄于安吉晚饭黄昏，伴随着一点凉风吹来，还挺有意境的。</small>
 
-date: "2025-01-01" 
 
-tags: ["leetcode", "programming"] 
-
----
 
 https://leetcode.cn/problems/design-an-atm-machine/
 
