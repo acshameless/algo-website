@@ -1,1 +1,1 @@
-* [第 00 题 - example](https://algo.shameless.top/posts/00-example) - 2024-11-22
+* [第 01 题 - 2241](https://algo.shameless.top/posts/01-2241) - 2025-01-05
