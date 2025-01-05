@@ -1,4 +1,12 @@
+---
 
+title: "LeetCode 2241" 
+
+date: "2025-01-01" 
+
+tags: ["leetcode", "programming"] 
+
+---
 
 https://leetcode.cn/problems/design-an-atm-machine/
 
